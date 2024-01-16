@@ -1,4 +1,4 @@
-[home](https://icr-sc-training.github.io)
+[sc home](https://icr-sc-training.github.io) - [next]()
 # 🐍 Introduction to Python
 *Managed, maintained and run by the Scientific Software Group at the Institute of Cancer Research.*
 
