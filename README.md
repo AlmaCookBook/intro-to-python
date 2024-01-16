@@ -68,8 +68,8 @@ If you have any issues verifying your installation, please contact scsoftware@ic
 For those familiar with `git`, simply navigate to a directory you want to keep the files in, then:
 
 ```shell
-git clone git@github.com:instituteofcancerresearch/intro-to-python.git
-cd intro-to-python
+git clone git@github.com:ICR-SC-Training/intro-to-python.git
+cd intro-to-python-main
 jupyter lab
 ```
 
