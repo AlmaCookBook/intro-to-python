@@ -69,7 +69,7 @@ For those familiar with `git`, simply navigate to a directory you want to keep t
 
 ```shell
 git clone git@github.com:ICR-SC-Training/intro-to-python.git
-cd intro-to-python-main
+cd intro-to-python
 jupyter lab
 ```
 
@@ -82,13 +82,13 @@ Assuming you have decompressed the zip file within the default "Downloads" folde
 - **Windows Users**
     ```shell
     cd Downloads
-    cd intro-to-python
+    cd intro-to-python-main
     jupyter lab
     ```
 - **Mac OS users**
     ```shell
     cd ~/Downloads
-    cd intro-to-python
+    cd intro-to-python-main
     jupyter lab
     ```
 
