@@ -1,4 +1,4 @@
-[AlmaCookBook](https://almacookbook.github.io/) - [course github](https://github.com/ICR-SC-Training/intro-to-python)
+[AlmaCookBook](https://almacookbook.github.io/) - [course contents on github](https://github.com/ICR-SC-Training/intro-to-python)
 # 🐍 Introduction to Python
 *Managed, maintained and run by the Scientific Software Group at the Institute of Cancer Research.*
 
