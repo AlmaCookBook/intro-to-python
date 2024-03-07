@@ -74,7 +74,7 @@ cd intro-to-python
 jupyter lab
 ```
 
-Otherwise, download and decompress the zip files manually as shown below
+Otherwise, download and decompress the zip files manually as shown below from: [github.com/AlmaCookBook/intro-to-python](https://github.com/AlmaCookBook/intro-to-python)
 
 ![Jupyter Lab](graphics/zip_download.JPG)
 
