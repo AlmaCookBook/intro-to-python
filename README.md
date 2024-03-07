@@ -59,7 +59,7 @@ jupyter lab
 
 This should stream an output to your terminal, and start a Jupyter Lab session inside your browser. The browser sesion should look a bit like this:
 
-<img src=graphics/jupyter_lab.JPG width="400">
+![Jupyter Lab](graphics/jupyter_lab.JPG)
 
 If you run into any permission issues with the download or installation, please contact helpdesk@icr.ac.uk.
 If you have any issues verifying your installation, please contact scsoftware@icr.ac.uk.
@@ -76,7 +76,7 @@ jupyter lab
 
 Otherwise, download and decompress the zip files manually as shown below
 
-<img src=graphics/zip_download.JPG  width="600">
+![Jupyter Lab](graphics/zip_download.JPG)
 
 Assuming you have decompressed the zip file within the default "Downloads" folder, open up your terminal once again, then
 
