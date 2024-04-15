@@ -15,13 +15,13 @@ The latter runs at a sligthly faster pace, and whilst having a simlar course str
 Each course is self contained enough to be taken independently, though you may wish to take them in term to reinforce and build upon your understanding.
 
 
-## ⚠️ Before you start!
+## ⚠️ Before you start! Install Jupyter and download files
 
 This course is delivered in the form of *Jupyter Notebooks*, and is intended to be worked on in an interactive (live-coding) sort of way. 
 Before you join the course, we therefore ask you to have installed *Jupyter Lab* on your own laptop, and to bring your laptop with you to the session.
 
 
-### 🖥️ Recommended installation procedure
+### 1. 🖥️ Jupyter installation procedure
 
 We recommend installing Python and Jupyter Lab as part of the Anaconda Distribution.
 
@@ -32,7 +32,7 @@ We recommend installing Python and Jupyter Lab as part of the Anaconda Distribut
     - If these is an option to "Register Anaconda as my default Python", ensure this is checked.
 
 
-### ☑️ Validating your installation
+### 2. ☑️ Validating your installation
 
 Once the download has completed, we will need to open a terminal
 
@@ -64,7 +64,7 @@ This should stream an output to your terminal, and start a Jupyter Lab session i
 If you run into any permission issues with the download or installation, please contact helpdesk@icr.ac.uk.
 If you have any issues verifying your installation, please contact scsoftware@icr.ac.uk.
 
-### 🗃️ Downloading the repository
+### 3. 🗃️ Downloading the repository
 
 Download and decompress the zip files manually as shown below from: [github.com/AlmaCookBook/intro-to-python](https://github.com/AlmaCookBook/intro-to-python)
 
@@ -92,6 +92,7 @@ git clone git@github.com:ICR-SC-Training/intro-to-python.git
 cd intro-to-python
 jupyter lab
 ```
+---  
 
 ### 🖥️ Not-Recommended alternative
 
