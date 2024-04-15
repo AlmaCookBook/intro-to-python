@@ -1,4 +1,4 @@
-[AlmaCookBook](https://almacookbook.github.io/) - [course contents on github](https://github.com/ICR-SC-Training/intro-to-python)
+[AlmaCookBook](https://almacookbook.github.io/) - [course contents on github](https://github.com/ICR-RSE-Group/intro-to-python)
 # 🐍 Introduction to Python
 *Managed, maintained and run by the Scientific Software Group at the Institute of Cancer Research.*
 
@@ -66,7 +66,7 @@ If you have any issues verifying your installation, please contact scsoftware@ic
 
 ### 3. 🗃️ Downloading the repository
 
-Download and decompress the zip files manually as shown below from: [github.com/AlmaCookBook/intro-to-python](https://github.com/AlmaCookBook/intro-to-python)
+Download and decompress the zip files manually as shown below from: [github.com/ICR-RSE-Group/intro-to-python](https://github.com/ICR-RSE-Group/intro-to-python)
 
 ![Jupyter Lab](graphics/zip_download.JPG)
 
@@ -88,7 +88,7 @@ Assuming you have decompressed the zip file within the default "Downloads" folde
 Alternatively, for those familiar with `git`, simply navigate to a directory you want to keep the files in, then:
 
 ```shell
-git clone git@github.com:ICR-SC-Training/intro-to-python.git
+git clone git@github.com:ICR-RSE-Group/intro-to-python.git
 cd intro-to-python
 jupyter lab
 ```
@@ -96,7 +96,7 @@ jupyter lab
 
 ### 🖥️ Not-Recommended alternative
 
-If necessary there is the option to uise an online version of Jupyter Lab, though this is not recommended as it is not as reliable as the local installation and you will not be able to keep and return to your work in the same way. To access this version click:  
+If necessary there is the option to use an online version of Jupyter Lab, though this is not recommended as it is not as reliable as the local installation and you will not be able to keep and return to your work in the same way. To access this version click:  
 [Jupyter online](https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb)
 
 You will still need to download the files as per the instructions above, and then upload them into this online version of Jupyter Lab. The sub directory structure will need to be created manually.
