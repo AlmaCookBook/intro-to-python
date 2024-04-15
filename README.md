@@ -66,15 +66,7 @@ If you have any issues verifying your installation, please contact scsoftware@ic
 
 ### 🗃️ Downloading the repository
 
-For those familiar with `git`, simply navigate to a directory you want to keep the files in, then:
-
-```shell
-git clone git@github.com:ICR-SC-Training/intro-to-python.git
-cd intro-to-python
-jupyter lab
-```
-
-Otherwise, download and decompress the zip files manually as shown below from: [github.com/AlmaCookBook/intro-to-python](https://github.com/AlmaCookBook/intro-to-python)
+Download and decompress the zip files manually as shown below from: [github.com/AlmaCookBook/intro-to-python](https://github.com/AlmaCookBook/intro-to-python)
 
 ![Jupyter Lab](graphics/zip_download.JPG)
 
@@ -92,6 +84,14 @@ Assuming you have decompressed the zip file within the default "Downloads" folde
     cd intro-to-python-main
     jupyter lab
     ```
+
+Alternatively, for those familiar with `git`, simply navigate to a directory you want to keep the files in, then:
+
+```shell
+git clone git@github.com:ICR-SC-Training/intro-to-python.git
+cd intro-to-python
+jupyter lab
+```
 
 ### 🖥️ Not-Recommended alternative
 
